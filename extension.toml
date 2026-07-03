@@ -1,10 +1,10 @@
 id = "custom-code-folding"
 name = "Custom Code Folding"
 description = "Configurable code folding with custom comment markers"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
-authors = ["Ali Ramadhan <ali.hh.ramadhan@gmail.com>"]
-repository = "https://github.com/ali-ramadhan/zed-custom-code-folding"
+authors = ["Ali Ramadhan <ali.hh.ramadhan@gmail.com>", "Tomas Chor <tomas.chor@atdepthmrv.com>"]
+repository = "https://github.com/tomchor/zed-custom-code-folding"
 
 [language_servers.custom-code-folding]
 name = "Custom Code Folding"

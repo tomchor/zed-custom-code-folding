@@ -89,3 +89,7 @@ You can add your own custom patterns via `settings.json` by using Regex patterns
 - `start`: Regex matching the opening marker. Use `(?P<label>...)` to capture a label shown when folded.
 - `end`: Regex matching the closing marker.
 - `include_defaults`: When `true` (default), your patterns are added alongside the built-in ones. Set `false` to use only your custom patterns.
+
+## Credits
+
+Originally created by [Ali Ramadhan](https://github.com/ali-ramadhan) as [ali-ramadhan/zed-custom-code-folding](https://github.com/ali-ramadhan/zed-custom-code-folding), in response to [Zed discussion #41167](https://github.com/zed-industries/zed/discussions/41167). This fork revives the extension to publish it to the Zed extension registry.

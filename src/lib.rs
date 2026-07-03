@@ -43,7 +43,7 @@ impl CustomCodeFoldingExtension {
         );
 
         let release = zed::latest_github_release(
-            "ali-ramadhan/zed-custom-code-folding",
+            "tomchor/zed-custom-code-folding",
             zed::GithubReleaseOptions {
                 require_assets: true,
                 pre_release: false,
