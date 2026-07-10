@@ -3,7 +3,7 @@ members = ["crates/custom-code-folding-server"]
 
 [package]
 name = "zed-custom-code-folding"
-version = "0.1.2"
+version = "0.1.0"
 edition = "2021"
 
 [lib]
